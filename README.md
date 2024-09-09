@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ying-A1
-- 🌱 An undergraduate
+- 👋 Hi, I’m XiaoYing
+- 🌱 An postgraduate
 - 👀 Interested in all computer science related
 - 📫 Reach me at 1532913445@qq.com
 
