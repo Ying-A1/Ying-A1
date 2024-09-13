@@ -1,5 +1,5 @@
 - 👋 Hi, I’m XiaoYing
-- 🌱 An postgraduate
+- 🌱 A postgraduate
 - 👀 Interested in all computer science related
 - 📫 Reach me at mr.sunying@gmail.com
 
